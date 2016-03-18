@@ -3,7 +3,7 @@
 ##概要
 ComputeShaderの入門
 
-ComputeShaderとComputeBufferの使い方を勉強したー 
+ComputeShaderとComputeBufferの使い方を勉強したー  
 たくさんのメッシュをインスタンス描写したり、動かしたり
 
 ![screenshot](./img.jpg)
